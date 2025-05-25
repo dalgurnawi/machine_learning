@@ -1,3 +1,14 @@
 pen_var, tol_var, dual_var, c_var, fit_intercept_var, intercept_scaling_var, class_weight_var, random_state_var, sol_var, max_iter_var, multi_class_var, verbose_var, warm_start_var, n_jobs_var, l1_ratio_var, score
 l2,0.0001,False,1.0,True,1,None,None,lbfgs,100,auto,0,False,None,None,0.98928
 l2,0.0001,False,1.0,True,1,None,None,lbfgs,100,auto,0,False,None,None,0.98928
+l2,0.0001,False,1.0,True,1,None,None,lbfgs,20,auto,0,False,None,None,0.9896
+l2,0.0001,False,1.0,True,1,None,None,liblinear,20,auto,0,False,None,None,0.98996
+l2,0.0001,False,1.0,True,1,None,None,newton-cg,20,auto,0,False,None,None,0.98996
+l2,0.0001,False,1.0,True,1,None,None,newton-cholesky,20,auto,0,False,None,None,0.98996
+l2,0.0001,False,1.0,False,1,None,None,newton-cholesky,20,auto,0,False,None,None,0.98996
+l2,0.0001,False,0.01,False,0.01,None,None,newton-cholesky,20,auto,0,False,None,None,0.98996
+l2,0.0001,False,0.01,False,0.01,balanced,None,newton-cholesky,100,auto,0,False,None,None,0.01065
+l2,0.0001,False,1.0,False,1,balanced,None,newton-cholesky,100,auto,0,False,None,None,0.01065
+l2,0.0001,False,1.0,False,1,balanced,None,lbfgs,100,auto,0,False,None,None,0.01065
+None,0.0001,False,1.0,False,1,balanced,None,lbfgs,100,auto,0,False,None,None,0.01065
+None,0.0001,False,1.0,False,1,balanced,None,lbfgs,100,auto,0,False,None,None,0.010466666666666668
