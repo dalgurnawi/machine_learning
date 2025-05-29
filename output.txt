@@ -12,3 +12,9 @@ l2,0.0001,False,1.0,False,1,balanced,None,newton-cholesky,100,auto,0,False,None,
 l2,0.0001,False,1.0,False,1,balanced,None,lbfgs,100,auto,0,False,None,None,0.01065
 None,0.0001,False,1.0,False,1,balanced,None,lbfgs,100,auto,0,False,None,None,0.01065
 None,0.0001,False,1.0,False,1,balanced,None,lbfgs,100,auto,0,False,None,None,0.010466666666666668
+l2,0.0001,False,1.0,False,1,balanced,None,saga,10000,auto,0,False,None,None,0.9144
+l2,0.0001,False,1.0,False,1,balanced,None,saga,10000,auto,0,False,None,None,0.58308
+l2,0.0001,False,1.0,False,1,balanced,None,saga,10000,auto,0,False,None,None,0.51684
+l2,0.0001,False,1.0,False,1,balanced,None,saga,10000,auto,0,False,None,None,0.5004
+None,0.0001,False,1.0,False,1,balanced,None,saga,10000,auto,0,False,None,None,0.69216
+l1,0.0001,False,1.0,False,1,balanced,None,saga,10000,auto,0,False,None,None,0.98676
