@@ -1,0 +1,11 @@
+Location,NotFraud,Fraud,Population,per_100k
+Chicago,10098,95,2746388,3.0
+Dallas,9977,99,1302638,8.0
+Houston,9886,105,2390125,4.0
+Los Angeles,9841,95,3878704,2.0
+New York,9877,116,8097282,1.0
+Philadelphia,9783,90,1517114,6.0
+Phoenix,9861,99,1675144,6.0
+San Antonio,9963,99,1532653,6.0
+San Diego,9996,115,1404452,8.0
+San Jose,9718,87,943212,9.0
