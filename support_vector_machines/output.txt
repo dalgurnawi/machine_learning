@@ -1,0 +1,617 @@
+Training Accuracy: 50%
+Testing Accuracy: 51%
+F1 Score: 0.66
+Recall Score: 0.51
+Precision Score: 0.96
+Amount Predicted False where Actual False: 7873
+Amount Predicted True where Actual False: 7687
+Amount Predicted False where Actual True: 157
+Amount Predicted True where Actual True: 135
+Training Accuracy: 50%
+Testing Accuracy: 51%
+F1 Score: 0.66
+Recall Score: 0.51
+Precision Score: 0.96
+Amount Predicted False where Actual False: 7873
+Amount Predicted True where Actual False: 7687
+Amount Predicted False where Actual True: 157
+Amount Predicted True where Actual True: 135
+Training Accuracy: 50%
+Testing Accuracy: 51%
+F1 Score: 0.66
+Recall Score: 0.51
+Precision Score: 0.96
+Amount Predicted False where Actual False: 7873
+Amount Predicted True where Actual False: 7687
+Amount Predicted False where Actual True: 157
+Amount Predicted True where Actual True: 135
+Training Accuracy: 50%
+Testing Accuracy: 51%
+F1 Score: 0.66
+Recall Score: 0.51
+Precision Score: 0.96
+Amount Predicted False where Actual False: 7873
+Amount Predicted True where Actual False: 7687
+Amount Predicted False where Actual True: 157
+Amount Predicted True where Actual True: 135
+Training Accuracy: 50%
+Testing Accuracy: 51%
+F1 Score: 0.66
+Recall Score: 0.51
+Precision Score: 0.96
+Amount Predicted False where Actual False: 7873
+Amount Predicted True where Actual False: 7687
+Amount Predicted False where Actual True: 157
+Amount Predicted True where Actual True: 135
+Training Accuracy: 50%
+Testing Accuracy: 51%
+F1 Score: 0.66
+Recall Score: 0.51
+Precision Score: 0.96
+Amount Predicted False where Actual False: 7873
+Amount Predicted True where Actual False: 7687
+Amount Predicted False where Actual True: 157
+Amount Predicted True where Actual True: 135
+Training Accuracy: 50%
+Testing Accuracy: 51%
+F1 Score: 0.66
+Recall Score: 0.51
+Precision Score: 0.96
+Amount Predicted False where Actual False: 7871
+Amount Predicted True where Actual False: 7689
+Amount Predicted False where Actual True: 157
+Amount Predicted True where Actual True: 135
+Training Accuracy: 50%
+Testing Accuracy: 51%
+F1 Score: 0.66
+Recall Score: 0.51
+Precision Score: 0.96
+Amount Predicted False where Actual False: 7871
+Amount Predicted True where Actual False: 7689
+Amount Predicted False where Actual True: 157
+Amount Predicted True where Actual True: 135
+Training Accuracy: 50%
+Testing Accuracy: 51%
+F1 Score: 0.66
+Recall Score: 0.51
+Precision Score: 0.96
+Amount Predicted False where Actual False: 7871
+Amount Predicted True where Actual False: 7689
+Amount Predicted False where Actual True: 157
+Amount Predicted True where Actual True: 135
+Training Accuracy: 50%
+Testing Accuracy: 51%
+F1 Score: 0.66
+Recall Score: 0.51
+Precision Score: 0.96
+Amount Predicted False where Actual False: 7872
+Amount Predicted True where Actual False: 7688
+Amount Predicted False where Actual True: 157
+Amount Predicted True where Actual True: 135
+Training Accuracy: 71%
+Testing Accuracy: 70%
+F1 Score: 0.81
+Recall Score: 0.7
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11100
+Amount Predicted True where Actual False: 4460
+Amount Predicted False where Actual True: 219
+Amount Predicted True where Actual True: 73
+Training Accuracy: 71%
+Testing Accuracy: 70%
+F1 Score: 0.81
+Recall Score: 0.7
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11097
+Amount Predicted True where Actual False: 4463
+Amount Predicted False where Actual True: 219
+Amount Predicted True where Actual True: 73
+Training Accuracy: 71%
+Testing Accuracy: 70%
+F1 Score: 0.81
+Recall Score: 0.7
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11098
+Amount Predicted True where Actual False: 4462
+Amount Predicted False where Actual True: 219
+Amount Predicted True where Actual True: 73
+Training Accuracy: 71%
+Testing Accuracy: 70%
+F1 Score: 0.81
+Recall Score: 0.7
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11099
+Amount Predicted True where Actual False: 4461
+Amount Predicted False where Actual True: 219
+Amount Predicted True where Actual True: 73
+Training Accuracy: 71%
+Testing Accuracy: 70%
+F1 Score: 0.81
+Recall Score: 0.7
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11100
+Amount Predicted True where Actual False: 4460
+Amount Predicted False where Actual True: 219
+Amount Predicted True where Actual True: 73
+Training Accuracy: 71%
+Testing Accuracy: 70%
+F1 Score: 0.81
+Recall Score: 0.7
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11101
+Amount Predicted True where Actual False: 4459
+Amount Predicted False where Actual True: 219
+Amount Predicted True where Actual True: 73
+Training Accuracy: 71%
+Testing Accuracy: 70%
+F1 Score: 0.81
+Recall Score: 0.7
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11099
+Amount Predicted True where Actual False: 4461
+Amount Predicted False where Actual True: 219
+Amount Predicted True where Actual True: 73
+Training Accuracy: 71%
+Testing Accuracy: 70%
+F1 Score: 0.81
+Recall Score: 0.7
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11093
+Amount Predicted True where Actual False: 4467
+Amount Predicted False where Actual True: 219
+Amount Predicted True where Actual True: 73
+Training Accuracy: 71%
+Testing Accuracy: 70%
+F1 Score: 0.81
+Recall Score: 0.7
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11102
+Amount Predicted True where Actual False: 4458
+Amount Predicted False where Actual True: 219
+Amount Predicted True where Actual True: 73
+Training Accuracy: 71%
+Testing Accuracy: 70%
+F1 Score: 0.81
+Recall Score: 0.7
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11102
+Amount Predicted True where Actual False: 4458
+Amount Predicted False where Actual True: 219
+Amount Predicted True where Actual True: 73
+Training Accuracy: 53%
+Testing Accuracy: 53%
+F1 Score: 0.68
+Recall Score: 0.53
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8291
+Amount Predicted True where Actual False: 7269
+Amount Predicted False where Actual True: 165
+Amount Predicted True where Actual True: 127
+Training Accuracy: 53%
+Testing Accuracy: 53%
+F1 Score: 0.68
+Recall Score: 0.53
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8286
+Amount Predicted True where Actual False: 7274
+Amount Predicted False where Actual True: 165
+Amount Predicted True where Actual True: 127
+Training Accuracy: 53%
+Testing Accuracy: 53%
+F1 Score: 0.68
+Recall Score: 0.53
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8283
+Amount Predicted True where Actual False: 7277
+Amount Predicted False where Actual True: 165
+Amount Predicted True where Actual True: 127
+Training Accuracy: 52%
+Testing Accuracy: 53%
+F1 Score: 0.68
+Recall Score: 0.53
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8281
+Amount Predicted True where Actual False: 7279
+Amount Predicted False where Actual True: 165
+Amount Predicted True where Actual True: 127
+Training Accuracy: 53%
+Testing Accuracy: 53%
+F1 Score: 0.68
+Recall Score: 0.53
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8311
+Amount Predicted True where Actual False: 7249
+Amount Predicted False where Actual True: 165
+Amount Predicted True where Actual True: 127
+Training Accuracy: 53%
+Testing Accuracy: 53%
+F1 Score: 0.68
+Recall Score: 0.53
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8331
+Amount Predicted True where Actual False: 7229
+Amount Predicted False where Actual True: 166
+Amount Predicted True where Actual True: 126
+Training Accuracy: 53%
+Testing Accuracy: 53%
+F1 Score: 0.68
+Recall Score: 0.53
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8287
+Amount Predicted True where Actual False: 7273
+Amount Predicted False where Actual True: 165
+Amount Predicted True where Actual True: 127
+Training Accuracy: 53%
+Testing Accuracy: 53%
+F1 Score: 0.68
+Recall Score: 0.53
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8350
+Amount Predicted True where Actual False: 7210
+Amount Predicted False where Actual True: 166
+Amount Predicted True where Actual True: 126
+Training Accuracy: 53%
+Testing Accuracy: 53%
+F1 Score: 0.68
+Recall Score: 0.53
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8291
+Amount Predicted True where Actual False: 7269
+Amount Predicted False where Actual True: 165
+Amount Predicted True where Actual True: 127
+Training Accuracy: 52%
+Testing Accuracy: 53%
+F1 Score: 0.68
+Recall Score: 0.53
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8263
+Amount Predicted True where Actual False: 7297
+Amount Predicted False where Actual True: 165
+Amount Predicted True where Actual True: 127
+Training Accuracy: 61%
+Testing Accuracy: 61%
+F1 Score: 0.74
+Recall Score: 0.61
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9589
+Amount Predicted True where Actual False: 5971
+Amount Predicted False where Actual True: 192
+Amount Predicted True where Actual True: 100
+Training Accuracy: 61%
+Testing Accuracy: 61%
+F1 Score: 0.74
+Recall Score: 0.61
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9591
+Amount Predicted True where Actual False: 5969
+Amount Predicted False where Actual True: 192
+Amount Predicted True where Actual True: 100
+Training Accuracy: 62%
+Testing Accuracy: 62%
+F1 Score: 0.75
+Recall Score: 0.62
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9652
+Amount Predicted True where Actual False: 5908
+Amount Predicted False where Actual True: 193
+Amount Predicted True where Actual True: 99
+Training Accuracy: 61%
+Testing Accuracy: 61%
+F1 Score: 0.75
+Recall Score: 0.61
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9639
+Amount Predicted True where Actual False: 5921
+Amount Predicted False where Actual True: 193
+Amount Predicted True where Actual True: 99
+Training Accuracy: 62%
+Testing Accuracy: 62%
+F1 Score: 0.75
+Recall Score: 0.62
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9669
+Amount Predicted True where Actual False: 5891
+Amount Predicted False where Actual True: 193
+Amount Predicted True where Actual True: 99
+Training Accuracy: 62%
+Testing Accuracy: 62%
+F1 Score: 0.75
+Recall Score: 0.62
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9752
+Amount Predicted True where Actual False: 5808
+Amount Predicted False where Actual True: 196
+Amount Predicted True where Actual True: 96
+Training Accuracy: 62%
+Testing Accuracy: 62%
+F1 Score: 0.75
+Recall Score: 0.62
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9735
+Amount Predicted True where Actual False: 5825
+Amount Predicted False where Actual True: 196
+Amount Predicted True where Actual True: 96
+Training Accuracy: 62%
+Testing Accuracy: 62%
+F1 Score: 0.75
+Recall Score: 0.62
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9766
+Amount Predicted True where Actual False: 5794
+Amount Predicted False where Actual True: 196
+Amount Predicted True where Actual True: 96
+Training Accuracy: 62%
+Testing Accuracy: 62%
+F1 Score: 0.75
+Recall Score: 0.62
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9702
+Amount Predicted True where Actual False: 5858
+Amount Predicted False where Actual True: 194
+Amount Predicted True where Actual True: 98
+Training Accuracy: 61%
+Testing Accuracy: 61%
+F1 Score: 0.74
+Recall Score: 0.61
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9575
+Amount Predicted True where Actual False: 5985
+Amount Predicted False where Actual True: 191
+Amount Predicted True where Actual True: 101
+Training Accuracy: 67%
+Testing Accuracy: 67%
+F1 Score: 0.78
+Recall Score: 0.67
+Precision Score: 0.96
+Amount Predicted False where Actual False: 10492
+Amount Predicted True where Actual False: 5068
+Amount Predicted False where Actual True: 210
+Amount Predicted True where Actual True: 82
+Training Accuracy: 67%
+Testing Accuracy: 67%
+F1 Score: 0.79
+Recall Score: 0.67
+Precision Score: 0.96
+Amount Predicted False where Actual False: 10496
+Amount Predicted True where Actual False: 5064
+Amount Predicted False where Actual True: 210
+Amount Predicted True where Actual True: 82
+Training Accuracy: 67%
+Testing Accuracy: 67%
+F1 Score: 0.79
+Recall Score: 0.67
+Precision Score: 0.96
+Amount Predicted False where Actual False: 10539
+Amount Predicted True where Actual False: 5021
+Amount Predicted False where Actual True: 211
+Amount Predicted True where Actual True: 81
+Training Accuracy: 68%
+Testing Accuracy: 68%
+F1 Score: 0.79
+Recall Score: 0.68
+Precision Score: 0.96
+Amount Predicted False where Actual False: 10709
+Amount Predicted True where Actual False: 4851
+Amount Predicted False where Actual True: 213
+Amount Predicted True where Actual True: 79
+Training Accuracy: 68%
+Testing Accuracy: 68%
+F1 Score: 0.79
+Recall Score: 0.68
+Precision Score: 0.96
+Amount Predicted False where Actual False: 10665
+Amount Predicted True where Actual False: 4895
+Amount Predicted False where Actual True: 214
+Amount Predicted True where Actual True: 78
+Training Accuracy: 71%
+Testing Accuracy: 71%
+F1 Score: 0.81
+Recall Score: 0.71
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11185
+Amount Predicted True where Actual False: 4375
+Amount Predicted False where Actual True: 223
+Amount Predicted True where Actual True: 69
+Training Accuracy: 70%
+Testing Accuracy: 70%
+F1 Score: 0.81
+Recall Score: 0.7
+Precision Score: 0.96
+Amount Predicted False where Actual False: 11029
+Amount Predicted True where Actual False: 4531
+Amount Predicted False where Actual True: 219
+Amount Predicted True where Actual True: 73
+Training Accuracy: 14%
+Testing Accuracy: 14%
+F1 Score: 0.23
+Recall Score: 0.14
+Precision Score: 0.96
+Amount Predicted False where Actual False: 2018
+Amount Predicted True where Actual False: 13542
+Amount Predicted False where Actual True: 51
+Amount Predicted True where Actual True: 241
+Training Accuracy: 1%
+Testing Accuracy: 2%
+F1 Score: 0.0
+Recall Score: 0.02
+Precision Score: 0.0
+Amount Predicted False where Actual False: 0
+Amount Predicted True where Actual False: 15560
+Amount Predicted False where Actual True: 0
+Amount Predicted True where Actual True: 292
+/Users/davidal-gurnawi/Documents/data_science/machine_learning/.venv/lib/python3.13/site-packages/sklearn/metrics/_classification.py:1731: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Training Accuracy: 1%
+Testing Accuracy: 2%
+F1 Score: 0.0
+Recall Score: 0.02
+Precision Score: 0.0
+Amount Predicted False where Actual False: 0
+Amount Predicted True where Actual False: 15560
+Amount Predicted False where Actual True: 0
+Amount Predicted True where Actual True: 292
+/Users/davidal-gurnawi/Documents/data_science/machine_learning/.venv/lib/python3.13/site-packages/sklearn/metrics/_classification.py:1731: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Training Accuracy: 64%
+Testing Accuracy: 64%
+F1 Score: 0.76
+Recall Score: 0.64
+Precision Score: 0.96
+Amount Predicted False where Actual False: 10039
+Amount Predicted True where Actual False: 5521
+Amount Predicted False where Actual True: 202
+Amount Predicted True where Actual True: 90
+Training Accuracy: 65%
+Testing Accuracy: 64%
+F1 Score: 0.77
+Recall Score: 0.64
+Precision Score: 0.96
+Amount Predicted False where Actual False: 10112
+Amount Predicted True where Actual False: 5448
+Amount Predicted False where Actual True: 203
+Amount Predicted True where Actual True: 89
+Training Accuracy: 63%
+Testing Accuracy: 63%
+F1 Score: 0.76
+Recall Score: 0.63
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9917
+Amount Predicted True where Actual False: 5643
+Amount Predicted False where Actual True: 199
+Amount Predicted True where Actual True: 93
+Training Accuracy: 67%
+Testing Accuracy: 66%
+F1 Score: 0.78
+Recall Score: 0.66
+Precision Score: 0.96
+Amount Predicted False where Actual False: 10410
+Amount Predicted True where Actual False: 5150
+Amount Predicted False where Actual True: 212
+Amount Predicted True where Actual True: 80
+Training Accuracy: 52%
+Testing Accuracy: 52%
+F1 Score: 0.67
+Recall Score: 0.52
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8160
+Amount Predicted True where Actual False: 7400
+Amount Predicted False where Actual True: 150
+Amount Predicted True where Actual True: 142
+Training Accuracy: 24%
+Testing Accuracy: 25%
+F1 Score: 0.38
+Recall Score: 0.25
+Precision Score: 0.96
+Amount Predicted False where Actual False: 3740
+Amount Predicted True where Actual False: 11820
+Amount Predicted False where Actual True: 69
+Amount Predicted True where Actual True: 223
+Training Accuracy: 14%
+Testing Accuracy: 14%
+F1 Score: 0.22
+Recall Score: 0.14
+Precision Score: 0.97
+Amount Predicted False where Actual False: 1959
+Amount Predicted True where Actual False: 13601
+Amount Predicted False where Actual True: 34
+Amount Predicted True where Actual True: 258
+Training Accuracy: 1%
+Testing Accuracy: 2%
+F1 Score: 0.0
+Recall Score: 0.02
+Precision Score: 0.0
+Amount Predicted False where Actual False: 0
+Amount Predicted True where Actual False: 15560
+Amount Predicted False where Actual True: 0
+Amount Predicted True where Actual True: 292
+/Users/davidal-gurnawi/Documents/data_science/machine_learning/.venv/lib/python3.13/site-packages/sklearn/metrics/_classification.py:1731: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Training Accuracy: 1%
+Testing Accuracy: 2%
+F1 Score: 0.0
+Recall Score: 0.02
+Precision Score: 0.0
+Amount Predicted False where Actual False: 0
+Amount Predicted True where Actual False: 15560
+Amount Predicted False where Actual True: 0
+Amount Predicted True where Actual True: 292
+/Users/davidal-gurnawi/Documents/data_science/machine_learning/.venv/lib/python3.13/site-packages/sklearn/metrics/_classification.py:1731: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Training Accuracy: 1%
+Testing Accuracy: 2%
+F1 Score: 0.0
+Recall Score: 0.02
+Precision Score: 0.0
+Amount Predicted False where Actual False: 0
+Amount Predicted True where Actual False: 15560
+Amount Predicted False where Actual True: 0
+Amount Predicted True where Actual True: 292
+/Users/davidal-gurnawi/Documents/data_science/machine_learning/.venv/lib/python3.13/site-packages/sklearn/metrics/_classification.py:1731: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Training Accuracy: 59%
+Testing Accuracy: 58%
+F1 Score: 0.72
+Recall Score: 0.58
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9160
+Amount Predicted True where Actual False: 6400
+Amount Predicted False where Actual True: 182
+Amount Predicted True where Actual True: 110
+Training Accuracy: 60%
+Testing Accuracy: 59%
+F1 Score: 0.73
+Recall Score: 0.59
+Precision Score: 0.96
+Amount Predicted False where Actual False: 9308
+Amount Predicted True where Actual False: 6252
+Amount Predicted False where Actual True: 187
+Amount Predicted True where Actual True: 105
+Training Accuracy: 53%
+Testing Accuracy: 53%
+F1 Score: 0.68
+Recall Score: 0.53
+Precision Score: 0.96
+Amount Predicted False where Actual False: 8255
+Amount Predicted True where Actual False: 7305
+Amount Predicted False where Actual True: 165
+Amount Predicted True where Actual True: 127
+Training Accuracy: 37%
+Testing Accuracy: 37%
+F1 Score: 0.52
+Recall Score: 0.37
+Precision Score: 0.96
+Amount Predicted False where Actual False: 5697
+Amount Predicted True where Actual False: 9863
+Amount Predicted False where Actual True: 111
+Amount Predicted True where Actual True: 181
+Training Accuracy: 12%
+Testing Accuracy: 13%
+F1 Score: 0.2
+Recall Score: 0.13
+Precision Score: 0.97
+Amount Predicted False where Actual False: 1804
+Amount Predicted True where Actual False: 13756
+Amount Predicted False where Actual True: 29
+Amount Predicted True where Actual True: 263
+Training Accuracy: 1%
+Testing Accuracy: 2%
+F1 Score: 0.0
+Recall Score: 0.02
+Precision Score: 0.0
+Amount Predicted False where Actual False: 0
+Amount Predicted True where Actual False: 15560
+Amount Predicted False where Actual True: 0
+Amount Predicted True where Actual True: 292
+/Users/davidal-gurnawi/Documents/data_science/machine_learning/.venv/lib/python3.13/site-packages/sklearn/metrics/_classification.py:1731: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Training Accuracy: 1%
+Testing Accuracy: 2%
+F1 Score: 0.0
+Recall Score: 0.02
+Precision Score: 0.0
+Amount Predicted False where Actual False: 0
+Amount Predicted True where Actual False: 15560
+Amount Predicted False where Actual True: 0
+Amount Predicted True where Actual True: 292
+/Users/davidal-gurnawi/Documents/data_science/machine_learning/.venv/lib/python3.13/site-packages/sklearn/metrics/_classification.py:1731: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
